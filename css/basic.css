@@ -1,0 +1,38 @@
+html,
+body,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+img,
+form,
+table,
+tr,
+td,
+header,
+footer,
+nav,
+section,
+article,
+input,
+select,
+textarea,
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+a {
+  text-decoration: none;
+}
+ul,
+ol {
+  list-style: none;
+}

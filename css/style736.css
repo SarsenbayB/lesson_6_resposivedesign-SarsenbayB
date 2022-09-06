@@ -1,0 +1,23 @@
+@media screen and (max-width: 736px) {
+  #header {
+    width: 17em;
+    right: 0;
+  }
+
+  #main .container {
+    padding: 2em 0 0 0;
+  }
+  #main .container > header h2 {
+    font-size: 2.5em;
+  }
+  #main .container > header p {
+    font-size: 1.5em;
+  }
+  #main .container h3 {
+    font-size: 1.5em;
+  }
+
+  #titleBar .toggle:before {
+    font-size: 14px;
+  }
+}

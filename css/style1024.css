@@ -1,0 +1,13 @@
+@media screen and (max-width: 1024px) {
+  #header {
+    display: none;
+    width: 23em;
+  }
+  #wrapper {
+    padding-right: 0;
+  }
+
+  #titleBar {
+    display: block;
+  }
+}
